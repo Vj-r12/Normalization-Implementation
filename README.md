@@ -41,5 +41,5 @@ Further analysis revealed a transitive dependency on Enterprise information with
 Systematically addressing data redundancy, partial dependency, and transitive dependency, we successfully converted the denormalized dataset into the efficient and normalized state of Third Normal Form (3NF). This transformation not only improved data integrity but also equipped the database to handle INSERTION, UPDATION, and DELETION anomalies seamlessly. The structured and normalized database model stands as a testament to the power of systematic normalization in effective data management.
 
 
-**RDBMS Used** 
-◼️ Postgres
+◼️**RDBMS USED** 
+1) Postgres

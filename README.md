@@ -5,7 +5,7 @@ A Practical Guide to Structuring Data in the Database Normalization Journey: Fro
 Certainly, let's structure and refine the explanation:
 
 **Dataset Selection and Denormalization:**
-Initially, we selected a dataset for the purpose of normalization implementation, specifically focusing on a Sales Order table. In the denormalized dataset, we observed data redundancy with repeated values for Quantity, Product_Price, Product_Id, Product_Name.
+Initially, we selected a dataset for the purpose of normalization implementation, specifically focusing on a Sales Order table. In the denormalized dataset, we observed data redundancy with repeated values for Quantity, Product_Price, Product_Id, Product_Name and Customer_Name.
 
 ◼️ **Conversion to First Normal Form (1NF):**
 To address this, we followed the rules of First Normal Form (1NF), ensuring that every column holds a single value, and each row is unique, either through a single or multiple columns. Primary keys were not mandatory for this stage.
